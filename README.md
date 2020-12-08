@@ -24,9 +24,9 @@ This work is supported by the Boeing Company, the Radiation Technology Program (
 * If you use the code and data for you publication, **please cite my paper(s)**.
 
 ## Setup
-* `Run_FEMValid.m` is to theoretically validate the proposed technique using numerical simulation. Please refer to **Section 3** in the [**journal paper**](http://chulminy.github.io/cv/Files/Journal/2011_Wavemotion_Lamb_Wave_Mode.pdf).
+* `Run_FEMValid.m` is to theoretically validate the proposed technique using numerical simulation. Please refer to **Section 3** in the [**journal paper**](http://www.sciencedirect.com/science/article/pii/S0165212511000102).
 
-* `Run_EXPValid.m` is to examine the feasibility of the proposed technique using real experiment. Please refer to **Section 4** in the [**journal paper**](http://chulminy.github.io/cv/Files/Journal/2011_Wavemotion_Lamb_Wave_Mode.pdf).
+* `Run_EXPValid.m` is to examine the feasibility of the proposed technique using real experiment. Please refer to **Section 4** in the [**journal paper**](http://www.sciencedirect.com/science/article/pii/S0165212511000102).
 
 ## Sample Results (Numerical Simulation)
 
